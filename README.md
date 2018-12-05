@@ -14,7 +14,13 @@
 
 ## Process
 
-Fetch:
-- List of genes from STRING
-- List of genes from PanelApp
+1. Fetch:
+    - List of genes from STRING.
+        - Meaning of network edges: confidence.
+        - Active interaction sources: experiments, databases, coexpression.
+        - Minimum required interaction score: medium confidence (0.4).
+        - Maximum number of interactions: <= 50 1st shell, <= 50 2nd shell.
+        - Network display mode: interactive.
+        - Display simplifications: hide disconnected nodes in network.
+    - List of genes from PanelApp
 
