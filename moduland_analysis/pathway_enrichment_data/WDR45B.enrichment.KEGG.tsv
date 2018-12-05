@@ -1,0 +1,2 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+04144	Endocytosis	4	0.000434	ENSP00000251968,ENSP00000318629,ENSP00000324810,ENSP00000366565	FAM125A,TSG101,VPS28,VPS37A
