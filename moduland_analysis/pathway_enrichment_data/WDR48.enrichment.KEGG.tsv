@@ -1,0 +1,2 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+03460	Fanconi anemia pathway	3	0.000497	ENSP00000307491,ENSP00000310842,ENSP00000343526	FANCI,USP1,WDR48
