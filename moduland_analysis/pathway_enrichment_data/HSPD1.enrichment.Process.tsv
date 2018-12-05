@@ -1,0 +1,2 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO.0002200	somatic diversification of immune receptors	3	0.00753	ENSP00000340019,ENSP00000349723,ENSP00000357459	ADAR,BCL11B,HSPD1
