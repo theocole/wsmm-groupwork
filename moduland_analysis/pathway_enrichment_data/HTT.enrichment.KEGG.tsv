@@ -1,0 +1,2 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+05016	Huntington s disease	3	0.0224	ENSP00000262367,ENSP00000334002,ENSP00000347184	CREBBP,HAP1,HTT

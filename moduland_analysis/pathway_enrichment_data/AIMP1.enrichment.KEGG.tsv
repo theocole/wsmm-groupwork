@@ -1,0 +1,2 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+00970	Aminoacyl-tRNA biosynthesis	6	3.59e-12	ENSP00000231572,ENSP00000262027,ENSP00000307567,ENSP00000325448,ENSP00000364794,ENSP00000377954	IARS,KARS,LARS,MARS,QARS,RARS

@@ -1,0 +1,5 @@
+#pathway ID	pathway description	observed gene count	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+GO.0008088	axon cargo transport	4	2.06e-05	ENSP00000268704,ENSP00000322791,ENSP00000334002,ENSP00000347184	HAP1,HTT,KIF1A,SPG7
+GO.0008089	anterograde axon cargo transport	3	0.00117	ENSP00000268704,ENSP00000322791,ENSP00000334002	HAP1,KIF1A,SPG7
+GO.0031587	positive regulation of inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity	2	0.00297	ENSP00000334002,ENSP00000347184	HAP1,HTT
+GO.0045724	positive regulation of cilium assembly	2	0.00889	ENSP00000334002,ENSP00000347184	HAP1,HTT
