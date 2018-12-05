@@ -14,11 +14,7 @@
 
 ## Process
 
-1. Fetch a list of green genes from panelApp
-1. Generate a STRING-DB network of all genes (including amber, red) using the following settings:
-    - TODO: add settings here
-1. Import gene network into Cytoscape 2.8.3 ('import network from file')
-1. Carry out ModuLand analysis of the gene network to determine:
-    - Level 1 Modules
-    - 10 most central genes within each level 1 module.
+Fetch:
+- List of genes from STRING
+- List of genes from PanelApp
 

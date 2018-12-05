@@ -1,4 +1,3 @@
-#node1	node2	node1_string_internal_id	node2_string_internal_id	node1_external_id	node2_external_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 POLR2G	POLR2D	1848338	1846274	9606.ENSP00000301788	9606.ENSP00000272645	0	0	0	0	0.127	0.997	0.900	0	0.999
 CCT3	CCT5	1847605	1846664	9606.ENSP00000295688	9606.ENSP00000280326	0	0	0	0.850	0.962	0.987	0.900	0	0.999
 POLR1D	TWISTNB	1848409	1842926	9606.ENSP00000302478	9606.ENSP00000222567	0	0	0	0	0.707	0.987	0.900	0	0.999

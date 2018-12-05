@@ -1,0 +1,15 @@
+[2018-12-05 14:02:43] updating correlation data on level 0
+[2018-12-05 14:02:43] WARNING getCorrelationDataset - corr_num: 0   correlation matrix: false - /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0_cor.csv
+[2018-12-05 14:02:50] Running command: /tmp/moduland6555935441486797948142/pajek_conv
+   /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.net
+   /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.cxg
+[2018-12-05 14:02:50] Pajek load error: Unable to open file: /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.net
+[2018-12-05 14:02:50] 
+[2018-12-05 14:02:50] Running command: /tmp/moduland6555935441486797948142/cpxext_cat
+   /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.cxg
+   onlyHeader
+[2018-12-05 14:02:50] Unable to open the file: '/home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.cxg'
+[2018-12-05 14:02:50] Running command: /tmp/moduland6555935441486797948142/cpxext_cat
+   /home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.cxg
+   onlyHeader
+[2018-12-05 14:02:50] Unable to open the file: '/home/theo/Documents/notes/uni/whole-systems/group-work/moduland_analysis//home/theo/Documents/notes/uni/whole-systems/group-work/string_interactions_psimi.xml-0.cxg'
