@@ -1,0 +1,138 @@
+project:,,,BIOGRID-ORGANISM-Homo_sapiens-3.4.158.tab2.txt,,,,,,
+level:,,,0,,,,,,
+nodes on this level:,,,2497,,,,,,
+links on this level:,,,3451,,,,,,
+nodes on the original network:,,,2497,,,,,,
+links on the original network:,,,3451,,,,,,
+are the modules projected to the original network:,,,NO,,,,,,
+number of modules:,,,41,,,,,,
+effective number of modules:,,,21.60817728,,,,,,
+module merge correlation threshold:,,,1,,,,,,
+original number of modules before merge:,,,41,,,,,,
+,,,,,,,,,
+Detailed module info:,,,,,,,,,
+moduleId,number of nodes,eff. number of nodes,module size (sum of module assignment values),maximum module assignment value,module center nodes (nodes with maximum assignment value),,,,
+ATXN3,2403,240.89613,982.29016,133.1698,ATXN3,,,,
+USP8,2392,196.93523,598.4244,69.122665,USP8,,,,
+WDR48,2127,29.3327,278.7903,121.93723,WDR48,,,,
+HSPD1,2386,141.5625,879.5719,256.6072,HSPD1,,,,
+ERLIN2,2372,60.206978,300.32312,110.89332,ERLIN2,,,,
+AIMP1,2208,67.33455,479.47845,99.025276,AIMP1,,,,
+HTT,2401,86.04473,437.6566,138.76595,HTT,,,,
+CCT5,2396,138.14201,847.65955,213.66214,CCT5,,,,
+ATXN2,2359,66.02375,184.42026,60.46596,ATXN2,,,,
+CDK16,2356,65.00842,240.38197,83.757286,CDK16,,,,
+ATXN1,2244,46.44806,468.26492,210.36148,ATXN1,,,,
+PSEN1,2003,22.904339,235.05891,109.788055,PSEN1,,,,
+ATXN7,1121,18.805746,198.17929,95.36023,ATXN7,,,,
+POLR3A,1350,38.10707,298.66663,92.30928,POLR3A,,,,
+WDR45B,1259,17.144222,108.97446,29.658928,WDR45B,,,,
+TFG,2377,71.234695,282.15378,103.91102,TFG,,,,
+CAPN1,1802,23.12883,131.23067,63.6612,CAPN1,,,,
+ADAR,1855,36.620872,70.847626,27.301683,ADAR,,,,
+ZEB2,864,11.782101,43.366405,19.259926,ZEB2,,,,
+SPG21,1477,24.276642,122.29151,48.197655,SPG21,,,,
+ARL6IP1,1044,29.968307,165.18578,46.266968,ARL6IP1,,,,
+NT5C2,594,16.50952,57.56602,25.032694,NT5C2,,,,
+CACNA1A,262,30.790619,240.16628,95.508995,CACNA1A,,,,
+AP4M1,75,22.076733,132.69934,27.355247,AP4M1,,,,
+L1CAM,603,23.268677,35.70368,11.09696,L1CAM,,,,
+PLP1,467,9.848179,28.982824,14.036615,PLP1,,,,
+KIF5A,31,9.840143,77.3116,38.62732,KIF5A,,,,
+DSTYK,96,11.5508795,71.646454,35.804684,DSTYK,,,,
+SLA2,14,4.3348103,18.381786,9.136857,SLA2,,,,
+SLC25A46,121,9.45918,33.02631,16.39185,SLC25A46,,,,
+SPAST,562,11.120972,23.233158,10.609357,SPAST,,,,
+DDHD2,62,7.413107,34.866707,17.336538,DDHD2,,,,
+SACS,106,7.957972,12.096437,5.606187,SACS,,,,
+VAMP1,11,5.875926,18.798874,9.399436,VAMP1,,,,
+B4GALNT1,25,3.887595,7.326857,3.635099,B4GALNT1,,,,
+SLC6A4,25,4.0074167,9.39382,4.683092,SLC6A4,,,,
+SLC1A4,9,3.20222,6.0246778,3.011853,SLC1A4,,,,
+SPG11,6,4.335175,11.538462,5.769231,SPG11,,,,
+SLC16A2,5,3.8883226,12,6,SLC16A2,,,,
+C12orf65,5,2.0314317,4.01779,2.008892,C12orf65,,,,
+CYP7B1,3,2.828427,4,2,CYP7B1,,,,
+,,,,,,,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ATXN3,,,,,,,,,
+ATXN3,HSPD1,USP8,ATXN1,HTT,UBC,KIF1C,VCP,BSCL2,OPA3
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module USP8,,,,,,,,,
+USP8,KIF1C,KIF1A,TUBB4A,SPG7,EGFR,AFG3L2,ADAR,CAPN1,CDK16
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module WDR48,,,,,,,,,
+WDR48,USP1,USP12,RAD51AP1,PHLPP2,CAPN1,ATAD5,NTRK1,FANCI,ADAR
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module HSPD1,,,,,,,,,
+HSPD1,MTPAP,SLC33A1,AFG3L2,MARS2,BCL11B,TUBB4A,ADAR,ALDH18A1,TFG
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ERLIN2,,,,,,,,,
+ERLIN2,ERLIN1,SLC33A1,HSPA5,AMFR,TFG,SYVN1,ZFYVE27,TUBB4A,AFG3L2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module AIMP1,,,,,,,,,
+AIMP1,MARS,AIMP2,RARS,QARS,IARS,KARS,LARS,TFG,AFG3L2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module HTT,,,,,,,,,
+HTT,BSCL2,TUBB4A,SPG7,SLC33A1,ZDHHC17,CREBBP,HAP1,KIF1A,ATXN10
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module CCT5,,,,,,,,,
+CCT5,PPP2R2B,CAPN1,TUBB4A,SPG7,BCL11B,AFG3L2,ADAR,TFG,PPP2R2C
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ATXN2,,,,,,,,,
+ATXN2,ATXN1,SH3GL3,SH3GL2,ADAR,CCNDBP1,ALDH18A1,HTT,CELA2B,NTRK1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module CDK16,,,,,,,,,
+CDK16,KIF1C,TFG,BRCA1,CCNYL1,YWHAZ,APP,AFG3L2,OPA3,CSNK2A2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ATXN1,,,,,,,,,
+ATXN1,ATXN2,RBFOX2,COIL,CLASRP,UBQLN4,RBPMS,UBE2E1,ZHX1,TRAF2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module PSEN1,,,,,,,,,
+PSEN1,NCSTN,CTNNB1,PSENEN,APH1A,TRAF6,ERLIN2,UBQLN1,PSEN2,CDH1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ATXN7,,,,,,,,,
+ATXN7,USP22,ATXN7L3,TRRAP,SUPT3H,FXN,CRX,PICK1,ACTN1,ACTN4
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module POLR3A,,,,,,,,,
+POLR3A,KIDINS220,PNPLA6,EVA1C,BSCL2,POLR3D,POLR3E,FAF2,POLR3H,TSPAN17
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module WDR45B,,,,,,,,,
+WDR45B,VPS37A,TSG101,VPS28,RCN1,GAS2L1,TFG,MVB12A,KDM1A,SARNP
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module TFG,,,,,,,,,
+TFG,TUBB4A,SPG7,SEC31A,GRB2,AFG3L2,TRIM25,CAPN1,DSG4,EWSR1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module CAPN1,,,,,,,,,
+CAPN1,CAST,RAD21,ECHS1,FN1,SIRT7,PTGDS,GLS,VCAM1,FANCG
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ADAR,,,,,,,,,
+ADAR,XPO1,AP4M1,ALDH18A1,HNRNPA1,USP38,AP4E1,TUBB4A,AP4B1,STAU1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ZEB2,,,,,,,,,
+ZEB2,CTBP1,AMPD2,SMAD3,HDAC4,MTA2,ELAVL1,CBX4,CEBPA,EP300
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SPG21,,,,,,,,,
+SPG21,GAD1,ARL6IP1,AGTRAP,LMNA,TRAF2,CMTM5,AKIRIN2,PLP1,HAAO
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module ARL6IP1,,,,,,,,,
+ARL6IP1,RTN2,PLP1,RTN4,FXR2,NT5C2,ATP1B4,ICAM2,SNX1,ACSF2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module NT5C2,,,,,,,,,
+NT5C2,SLC33A1,NUDT18,NME7,MOB3B,FXR2,ATP5O,SNX15,DUSP3,NOC4L
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module CACNA1A,,,,,,,,,
+CACNA1A,PCDH12,TECPR2,CABP1,DNAJB5,LTBP1,TCTN3,TCTN2,ACTN1,LRP1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module AP4M1,,,,,,,,,
+AP4M1,AP4E1,AP4S1,AP4B1,SUV39H2,ENTHD2,CEP104,GALNT2,ARF1,TMEM17
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module L1CAM,,,,,,,,,
+L1CAM,SLC33A1,HAX1,ALS2,DNAAF2,FGFR1,EZR,CANX,ERBB2,ITGAV
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module PLP1,,,,,,,,,
+PLP1,MBP,PTPRN,LMNA,PDDC1,AKT1,ITGB5,STRN4,CLN8,CALR
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module KIF5A,,,,,,,,,
+KIF5A,KLC1,TRIP6,KLC2,DTNB,TK1,YAP1,TP53BP2,ITSN1,STAU1
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module DSTYK,,,,,,,,,
+DSTYK,CDK13,CTDSP1,PSMB1,LSM12,DCTN1,IKBKE,MTPN,P2RX2,BSG
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SLA2,,,,,,,,,
+SLA2,CBL,CD247,ERBB2,ALB,GJC2,EGFR,SERAC1,CBWD1,SDF4
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SLC25A46,,,,,,,,,
+SLC25A46,ERGIC3,P2RX2,SCFD1,SLC15A1,PDCD1,OPRM1,APLNR,DSTYK,ZFYVE26
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SPAST,,,,,,,,,
+SPAST,IST1,ALB,ELAVL1,HECW2,KRAS,CHMP4B,CHMP2A,CHMP1B,GJC2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module DDHD2,,,,,,,,,
+DDHD2,BLVRA,MTNR1A,EMILIN1,AARSD1,EEF1A2,GBA2,APP,MTPAP,KIF1A
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SACS,,,,,,,,,
+SACS,ENPP6,ALB,TSC22D4,PICK1,ACTN4,ZNRD1,FXN,PSMA3,GJC2
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module VAMP1,,,,,,,,,
+VAMP1,STX4,STX1A,VAPA,LMNA,,,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module B4GALNT1,,,,,,,,,
+B4GALNT1,ITM2B,TMED6,TCTN2,PGAP1,TRIM25,UPK1A,BTNL8,MAP1LC3A,ATP1B4
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SLC6A4,,,,,,,,,
+SLC6A4,SNCA,STX1A,CALR,SNCG,CANX,PLP1,USP8,AKT1,ITGB5
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SLC1A4,,,,,,,,,
+SLC1A4,SLC39A4,KLK8,TMEM17,MYC,AP4B1,FIBP,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SPG11,,,,,,,,,
+SPG11,AP5M1,SERTAD3,CRYL1,,,,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module SLC16A2,,,,,,,,,
+SLC16A2,TEX29,PTH1R,,,,,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module C12orf65,,,,,,,,,
+C12orf65,MYLK2,CDK2,APP,C19orf12,,,,,
+the 10 core nodes (decreasingly ordered by the module assignment values) of the module CYP7B1,,,,,,,,,
+CYP7B1,UBB,,,,,,,,
