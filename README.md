@@ -49,3 +49,13 @@
 
 **Moduland analyis identifies ATXN3 as the most central node.**
 
+## Presentation
+
+15-minute slot in scientific form.
+- What is the problem?
+- How has the problem been solved?
+    - Present description of some of the methods.
+- Results and conclusions.
+- Simple table of what's been done.
+- End with small executive summary.
+

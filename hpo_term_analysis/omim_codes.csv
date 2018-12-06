@@ -1,0 +1,88 @@
+Genotype,OMIM,Gene symbol,Gene locus,Inheritance,Age of onset,Other names and characteristics
+SPG1,303350,L1CAM,Xq28,X-linked recessive,Early,MASA syndrome
+SPG2,312920,PLP1,Xq22.2,X-linked recessive,Variable,Pelizaeus–Merzbacher disease
+SPG3A,182600,ATL1,14q22.1,Autosomal dominant,Early,Strumpell disease (this Wiki)
+SPG4,182601,SPAST,2p22.3,Autosomal dominant,Variable,
+SPG5A,270800,CYP7B1,8q12.3,Autosomal recessive,Variable,
+SPG6,600363,NIPA1,15q11.2,Autosomal dominant,Variable,
+SPG7,607259,SPG7,16q24.3,Autosomal dominant,Variable,
+SPG8,603563,KIAA0196,8q24.13,Autosomal dominant,Adult,
+SPG9A,601162,ALDH18A1,10q24.1,Autosomal dominant,Teenage,
+SPG9B,616586,ALDH18A1,10q24.1,Autosomal recessive,Early,
+SPG10,604187,KIF5A,12q13.3,Autosomal dominant,Early,
+SPG11,604360,SPG11,15q21.1,Autosomal recessive,Variable,
+SPG12,604805,RTN2,19q13.32,Autosomal dominant,Early,
+SPG13,605280,HSP60,2q33.1,Autosomal dominant,Variable,
+SPG14,605229,?,3q27–q28,Autosomal recessive,Adult,
+SPG15,270700,ZFYVE26,14q24.1,Autosomal recessive,Early,
+SPG16,300266,?,Xq11.2,X-linked recessive,Early,
+SPG17,270685,BSCL2,11q12.3,Autosomal dominant,Teenage,
+SPG18,611225,ERLIN2,8p11.23,Autosomal recessive,Early,
+SPG19,607152,?,9q,Autosomal dominant,Adult onset,
+SPG20,275900,SPG20,13q13.3,Autosomal recessive,Early onset,Troyer syndrome
+SPG21,248900,ACP33,15q22.31,Autosomal recessive,Early onset,MAST syndrome
+SPG22,300523,SLC16A2,Xq13.2,X-linked recessive,Early onset,Allan–Herndon–Dudley syndrome
+SPG23,270750,RIPK5,1q32.1,Autosomal recessive,Early onset,Lison syndrome
+SPG24,607584,?,13q14,Autosomal recessive,Early onset,
+SPG25,608220,?,6q23–q24.1,Autosomal recessive,Adult,
+SPG26,609195,B4GALNT1,12q13.3,Autosomal recessive,Early onset,
+SPG27,609041,?,10q22.1–q24.1,Autosomal recessive,Variable,
+SPG28,609340,DDHD1,14q22.1,Autosomal recessive,Early onset,
+SPG29,609727,?,1p31.1–p21.1,Autosomal dominant,Teenage,
+SPG30,610357,KIF1A,2q37.3,Autosomal recessive,Teenage,
+SPG31,610250,REEP1,2p11.2,Autosomal dominant,Early onset,
+SPG32,611252,?,14q12–q21,Autosomal recessive,Childhood,
+SPG33,610244,ZFYVE27,10q24.2,Autosomal dominant,Adult,
+SPG34,300750,?,Xq24–q25,X-linked recessive,Teenage/Adult,
+SPG35,612319,FA2H,16q23.1,Autosomal recessive,Childhood,
+SPG36,613096,?,12q23–q24,Autosomal dominant,Teenage/Adult,
+SPG37,611945,?,8p21.1–q13.3,Autosomal dominant,Variable,
+SPG38,612335,?,4p16–p15,Autosomal dominant,Teenage/Adult,
+SPG39,612020,PNPLA6,19p13.2,Autosomal recessive,Childhood,
+SPG41,613364,?,11p14.1–p11.2,Autosomal dominant,Adolescence,
+SPG42,612539,SLC33A1,3q25.31,Autosomal dominant,Variable,
+SPG43,615043,C19orf12,19q12,Autosomal recessive,Childhood,
+SPG44,613206,GJC2,1q42.13,Autosomal recessive,Childhood/teenage,
+SPG45,613162,NT5C2,10q24.32–q24.33,Autosomal recessive,Infancy,
+SPG46,614409,GBA2,9p13.3,Autosomal recessive,Variable,
+SPG47,614066,AP4B1,1p13.2,Autosomal recessive,Childhood,
+SPG48,613647,AP5Z1,7p22.1,Autosomal recessive,6th decade,
+SPG49,615041,TECPR2,14q32.31,Autosomal recessive,Infancy,
+SPG50,612936,AP4M1,7q22.1,Autosomal recessive,Infancy,
+SPG51,613744,AP4E1,15q21.2,Autosomal recessive,Infancy,
+SPG52,614067,AP4S1,14q12,Autosomal recessive,Infancy,
+SPG53,614898,VPS37A,8p22,Autosomal recessive,Childhood,
+SPG54,615033,DDHD2,8p11.23,Autosomal recessive,Childhood,
+SPG55,615035,C12orf65,12q24.31,Autosomal recessive,Childhood,
+SPG56,615030,CYP2U1,4q25,Autosomal recessive,Childhood,
+SPG57,615658,TFG,3q12.2,Autosomal recessive,Early,
+SPG58,611302,KIF1C,17p13.2,Autosomal recessive,Within first two decades,Spastic ataxia 2
+SPG59,603158,USP8,15q21.2,?Autosomal recessive,Childhood,
+SPG60,612167,WDR48,3p22.2,?Autosomal recessive,Infancy,
+SPG61,615685,ARL6IP1,16p12.3,Autosomal recessive,Infancy,
+SPG62,615681,ERLIN1,10q24.31,Autosomal recessive,Childhood,
+SPG63,615686,AMPD2,1p13.3,Autosomal recessive,Infancy,
+SPG64,615683,ENTPD1,10q24.1,Autosomal recessive,Childhood,
+SPG66,610009,ARSI,5q32,?Autosomal dominant,Infancy,
+SPG67,615802,PGAP1,2q33.1,Autosomal recessive,Infancy,
+SPG68,609541,KLC2,11q13.1,Autosomal recessive,Childhood,SPOAN syndrome
+SPG69,609275,RAB3GAP2,1q41,Autosomal recessive,Infancy,"Martsolf syndrome, Warburg Micro syndrome"
+SPG70,156560,MARS,12q13,?Autosomal dominant,Infancy,
+SPG71,615635,ZFR,5p13.3,?Autosomal recessive,Childhood,
+SPG72,615625,REEP2,5q31,"Autosomal recessive;
+autosomal dominant",Infancy,
+SPG73,616282,CPT1C,19q13.33,Autosomal dominant,Adult,
+SPG74,616451,IBA57,1q42.13,Autosomal recessive,Childhood,
+SPG75,616680,MAG,19q13.12,Autosomal recessive,Childhood,
+SPG76,616907,CAPN1,11q13,Autosomal recessive,Adult,
+SPG77,617046,FARS2,6p25,Autosomal recessive,Childhood,
+SPG78,617225,ATP13A2,1p36,Autosomal recessive,Adult,Kufor–Rakeb syndrome
+SPG79,615491,UCHL1,4p13,Autosomal recessive,Childhood,
+HSNSP,256840,CCT5,5p15.2,Autosomal recessive,Childhood,Hereditary sensory neuropathy with spastic paraplegia
+SPG?,,SERAC1,6q25.3,,Juvenile,MEGDEL syndrome
+SPG?,605739,KY,3q22.2,Autosomal recessive,Infancy,
+SPG?,,PLA2G6,22q13.1,Autosomal recessive,Childhood,
+SPG?,,ATAD3A,1p36.33,Autosomal dominant,Childhood,Harel-Yoon syndrome
+SPG?,,KCNA2,1p13.3,Autosomal dominant,Childhood,
+SPG?,,Granulin,17q21.31,,,
+SPG?,,POLR3A,10q22.3,Autosomal recessive,,
