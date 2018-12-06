@@ -49,6 +49,20 @@
 
 **Moduland analyis identifies ATXN3 as the most central node.**
 
+## Factors to Consider in Expanding Gene Panel:
+
+*make sure genes aren't already in panel.*
+
+1. Have some sort of score for each of the following:
+
+    - shortest path to central nodes
+    - degree score
+    - which module is it in?
+    - hpo term clustering 
+    - bridgeness/centrality
+
+2. See which genes score highly in all categories (rank based on all scores)
+
 ## Presentation
 
 15-minute slot in scientific form.
